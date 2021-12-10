@@ -1,4 +1,4 @@
-package fr.toz.adentofcode;
+package fr.toz.adventofcode;
 
 import java.io.IOException;
 import java.nio.file.Files;
